@@ -1,5 +1,5 @@
-🔗 Live Demo: https://empMgn.vercel.app
-🔗 API: https://your-server-name.onrender.com/graphql
+🔗 Live Demo: https://emp-mgm-graph-ql-apollo-server-mong.vercel.app/
+
 # Employee Management (GraphQL + ApolloServer, Express, MongoDB, React + ApolloClient)
 - Backend: Express + Apollo Server (GraphQL) + Mongoose (MongoDB)
 - Frontend: React + Apollo Client
