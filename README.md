@@ -1,6 +1,6 @@
 🔗 Live Demo: https://empMgn.vercel.app
 🔗 API: https://your-server-name.onrender.com/graphql
-# Employee Management (GraphQL, React, MongoDB)
+# Employee Management (GraphQL + ApolloServer, Express, MongoDB, React + ApolloClient)
 - Backend: Express + Apollo Server (GraphQL) + Mongoose (MongoDB)
 - Frontend: React + Apollo Client
 - Email uniqueness enforced at DB level (duplicate attempts return a clear error)
