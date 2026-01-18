@@ -11,13 +11,13 @@
 - Setup
 1) Clone / place files into a folder with two subfolders: `server` and `client`.
 
-2) Server
+2) Server:
    - cd server
    - change `.env` relevant data
    - npm install
    - npm start
   
-   - 3) Client
+3) Client:
    - cd client
    - optionally set REACT_APP_GRAPHQL_URL in `.env` (defaults to http://localhost:4000/graphql)
    - npm install
